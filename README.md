@@ -1,6 +1,6 @@
 # Django Music Player
 
-A Property mannagement system built with django web framework
+A music player built with django web framework
 
 
 
